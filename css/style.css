@@ -562,7 +562,7 @@ display: flex; gap:10px;
     font-family: 'Hana2.0 B';
     font-size: 20px; color: #000;
     position: absolute;
-    left: 60px; top: 60px;
+    left: 60px; top: 90px;
 }
 
 .event_box2 .eb_banner5 .money{
@@ -583,7 +583,7 @@ background-color: #f4f4f4;
 .event_box2 .eb_banner5 .point{
     position: absolute;
     left: 58px;
-    top: 31px;
+    top: 55px;
     background-color: #43587d;
     color: #fff; font-size: 13px; 
     border-radius: 2px; 
